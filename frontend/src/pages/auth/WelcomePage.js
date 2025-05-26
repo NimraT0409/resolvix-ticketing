@@ -61,7 +61,7 @@ const WelcomePage = () => {
             color="primary"
             sx={{ textAlign: "center", mb: { xs: 2, md: 0 } }}
           >
-            A robust web-based Real-Time Chat App developed by Vaibhaw Mishra.
+            A robust web-based Real-Time Chat App developed by Rsolvix-team.
           </Typography>
 
           <Button
