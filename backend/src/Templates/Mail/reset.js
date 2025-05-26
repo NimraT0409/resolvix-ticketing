@@ -115,9 +115,9 @@ export default (name, reset) => {
     </head>
     <body>
       <div class="container">
-        <div class="header">Welcome to TwinkConnect</div>
+        <div class="header">Welcome to Rsolvix-ticketing</div>
         <div class="logo">
-          <a href="https://twinkconnect.netlify.app/">
+         // <a href="https://twinkconnect.netlify.app/">
             <img src="https://i.imgur.com/KZkoFRO.png" alt="TwinkConnect Logo" />
           </a>
         </div>
